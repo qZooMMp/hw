@@ -53,3 +53,8 @@ body {
 .navbar-nav li a:hover {
   color: #1abc9c !important;
 }
+
+.navbar .container-fluid {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
